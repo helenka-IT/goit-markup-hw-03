@@ -241,6 +241,7 @@ a {
 /* Our portfolio */
 .our-portfolio-section {
   padding: 120px 0;
+  background-color: #ffffff;
 }
 
 .title-our-portfolio {
@@ -274,8 +275,7 @@ a {
   gap: 48px 24px;
 }
 .item-portfolio {
-  background-color: #ffffff;
-  width: calc(100%-48px) / 3;
+  width: calc((100%-48px) / 3);
 }
 .portfolio-card {
   padding: 32px 16px;
